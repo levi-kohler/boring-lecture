@@ -1,4 +1,13 @@
+body {
+  background-color: rgb(214, 137, 50);
+}
+
 .intro {
-  color: blue;
-  padding: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.flashy {
+  text-align: center;
+  padding: 10px;
 }
